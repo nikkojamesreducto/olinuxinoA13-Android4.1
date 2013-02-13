@@ -1,4 +1,4 @@
-This is Android 4.1 image for A13 Olinuxino with 800x600 Resolution
+This is Android 4.1 images for A13 Olinuxino
 
 **Added image supporting VGA 800x600 - sun5i_android_a13-evb_800x600.img	
 **Added image supporting A13-LCD43TS - sun5i_android_a13-evb_480x272.img
